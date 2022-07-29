@@ -45,7 +45,7 @@ def main():
 
     # DO NOT REMOVE the 'Recommender System' option below, however,
     # you are welcome to add more options to enrich your app.
-    page_options = ["Home Page", "Solution Overview", "EDA", "Recommender System","About the company"]
+    page_options = [ "Recommender System","Home Page", "Solution Overview", "EDA","About the company"]
     st.sidebar.image('aqw.jpeg', width =150)
     st.sidebar.title("JM1 Movie Recommender®")
     st.sidebar.title("Menu") 
